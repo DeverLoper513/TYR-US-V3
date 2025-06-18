@@ -12,9 +12,9 @@ function App() {
   let InstanceId_Widget = "1150373";
   let InstanceId_QA = "";
   let InstanceId_SEO = "";
-  let InstanceId_Carousel = "";
-  let InstanceId_StarRating = "";
-  let InstanceId_PromotedProd = "";
+  let InstanceId_Carousel = "1151439";
+  let InstanceId_StarRating = "1151435";
+  let InstanceId_PromotedProd = "1151444";
   let InstanceId_UgcGallery = "";
   let InstanceId_ReviewsTab = "";
 
