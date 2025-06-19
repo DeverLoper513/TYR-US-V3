@@ -211,5 +211,8 @@ body {
 .wrapper, .accordion-body{
   padding: 0 !important;
 }
-  
+  .wrapper{
+    margin: 0 !important;
+    max-width: 100%;
+  }
 }
